@@ -19,3 +19,6 @@ Hi myself buckeyv2 aka arpv2dev<br>Preparing for dp-100 certification exam<br>Ma
 [![](https://visitcount.itsvg.in/api?id=buckeyv2&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=buckeyv2&label=views%20&color=12&icon=6&pretty=false" />
+</a>
